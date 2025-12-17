@@ -1,2 +1,2 @@
 # collabcode
-Predmetni projekat/predlog diplomskog iz predmeta napredne tehnike programiranja
+Predmetni projekat/predlog diplomskog iz predmeta napredne tehnike programiranja [WIP]
